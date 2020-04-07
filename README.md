@@ -1,3 +1,7 @@
+# WirVsVirus Submission
+
+[![JAY - Jobs Around You](https://cdn.discordapp.com/attachments/423862962369986600/697102054799441950/Frame_360.png)](https://youtu.be/e8sKjavb0HY "JAY - Jobs Around You | #WirVsVirusHack")
+
 ## Our vision
 The coronavirus is changing our world and our labour market. So if you have just lost your job or are only able to work in a limited way, you now have the chance to help out in areas where help is urgently needed.
 
