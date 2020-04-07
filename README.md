@@ -39,7 +39,7 @@ Finished App-Design
 
 Logo Design
 
-Jay stands for " **J**obs **a**round **y**ou"
+Jay stands for "**J**obs **a**round **y**ou"
 
 The word mark Jay is complemented by an iconographic jay.  
 
@@ -67,7 +67,7 @@ Design:
 * Figma
 
 
-## HChallenges we have encountered
+## Challenges we have encountered
 
 Time, but this is quite normal at a Hackathon. ;-)
 
