@@ -91,3 +91,7 @@ That you can do wonderful things in a short time with people you did not know be
 The app is currently a proof of concept and not a production-ready app. Of course there is still a lot to do. We have learned a lot through the development of the prototype what we want to include in the next concept and design iteration. We are also working on the topic of financing so that we can design and publish the app as soon as possible and help people.
 
 Further details can be found in the [attached (German) presentation](https://cdn.discordapp.com/attachments/466566253096599563/691345421502513302/JAY_-_Jobs_Around_You_Pitch_Presentation.pdf).
+
+## Contact
+
+E-mail: hello@getjay.de
